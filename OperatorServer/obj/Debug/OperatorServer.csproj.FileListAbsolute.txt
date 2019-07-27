@@ -1,0 +1,13 @@
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\obj\Debug\OperatorServer.csprojResolveAssemblyReference.cache
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\OperatorServer.exe.config
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\OperatorServer.exe
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\OperatorServer.pdb
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\OperationLibrary.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\MySql.Data.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\Mono.Posix.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\CryptSharp.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\OperationLibrary.pdb
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\CryptSharp.pdb
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\bin\Debug\CryptSharp.xml
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\obj\Debug\OperatorServer.exe
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\OperatorServer\obj\Debug\OperatorServer.pdb

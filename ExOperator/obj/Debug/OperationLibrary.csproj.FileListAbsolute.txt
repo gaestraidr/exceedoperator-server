@@ -1,0 +1,10 @@
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\OperationLibrary.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\OperationLibrary.pdb
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\CryptSharp.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\Mono.Posix.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\MySql.Data.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\CryptSharp.pdb
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\bin\Debug\CryptSharp.xml
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\obj\Debug\OperationLibrary.dll
+C:\Users\Ganesha\Documents\Visual Studio 2015\Projects\OperatorServer\ExOperator\obj\Debug\OperationLibrary.pdb
+C:\Users\Ganesha\documents\visual studio 2015\Projects\OperatorServer\ExOperator\obj\Debug\OperationLibrary.csprojResolveAssemblyReference.cache
